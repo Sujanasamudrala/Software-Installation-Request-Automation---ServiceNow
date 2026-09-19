@@ -22,22 +22,22 @@ This project provides a centralized **ServiceNow solution** where employees can 
 - Support software licensing and IT governance
 
 ## 🔄 Workflow
-Employee
-↓
-Service Catalog
-↓
-Software Installation Request
-↓
-REQ / RITM Creation
-↓
-Approval
-↓
-Email Notification
-↓
-Catalog Task (SCTASK)
-↓
-Software Support Team
-↓
+Employee  
+↓  
+Service Catalog  
+↓  
+Software Installation Request  
+↓  
+REQ / RITM Creation  
+↓  
+Approval  
+↓  
+Email Notification  
+↓  
+Catalog Task (SCTASK)  
+↓  
+Software Support Team  
+↓  
 Request Completion
 
 ## 🛠️ Technologies & ServiceNow Components
