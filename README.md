@@ -1,24 +1,29 @@
-🚀 An Employee Requests Installation of Licensed Software through the Service Catalog
+# 🚀 Licensed Software Installation Request Automation
 
-ServiceNow | Service Catalog | Flow Designer | Workflow Automation | ITSM
+**ServiceNow | Service Catalog | Flow Designer | Workflow Automation | ITSM**
 
 An end-to-end ServiceNow automation project that streamlines the process of requesting, approving, and fulfilling licensed software installation requests.
 
-The solution replaces manual, email-based coordination with a standardized Service Catalog request and automated workflow, improving efficiency, transparency, and request tracking.
+The solution replaces manual, email-based coordination with a standardized **Service Catalog request** and automated workflow, improving efficiency, transparency, and request tracking.
 
-📌 Project Overview
-Manual software installation requests can lead to delays, incomplete information, inconsistent approvals, and poor visibility.
-This project provides a centralized ServiceNow solution where employees can submit software requests through the Service Catalog, while ServiceNow automates notification, approval, and IT fulfillment.
+## 📌 Project Overview
 
-🎯 Objectives
-Reduce manual effort and processing delays
-Standardize software installation requests
-Automate approval and notification processes
-Improve request visibility and tracking
-Enhance employee experience
-Support software licensing and IT governance
+Manual software installation requests can result in delays, incomplete information, inconsistent approvals, and poor visibility.
 
-🔄 Workflow
+This project provides a centralized **ServiceNow solution** where employees can submit software installation requests through the Service Catalog, while ServiceNow automates notifications, approvals, and IT fulfillment.
+
+## 🎯 Objectives
+
+- Reduce manual effort and processing delays
+- Standardize software installation requests
+- Automate approval and notification processes
+- Improve request visibility and tracking
+- Enhance employee experience
+- Support software licensing and IT governance
+
+## 🔄 Workflow
+
+```text
 Employee
    ↓
 Service Catalog
