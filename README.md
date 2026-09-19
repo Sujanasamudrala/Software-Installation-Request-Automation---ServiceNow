@@ -23,22 +23,22 @@ This project provides a centralized **ServiceNow solution** where employees can 
 
 ## 🔄 Workflow
 Employee
-   ↓
+↓
 Service Catalog
-   ↓
+↓
 Software Installation Request
-   ↓
-Catalog Item Requested
-   ↓
-Send Email
-   ↓
-Ask For Approval
-   ↓
-Create Catalog Task
-   ↓
-IT Support Fulfillment
-   ↓
-Request Tracking & Completion
+↓
+REQ / RITM Creation
+↓
+Approval
+↓
+Email Notification
+↓
+Catalog Task (SCTASK)
+↓
+Software Support Team
+↓
+Request Completion
 
 ## 🛠️ Technologies & ServiceNow Components
 | Component               | Purpose                        |
