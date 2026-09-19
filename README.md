@@ -42,7 +42,7 @@ IT Support Fulfillment
    ↓
 Request Tracking & Completion
 
-🛠️ Technologies & ServiceNow Components
+## 🛠️ Technologies & ServiceNow Components
 | Component               | Purpose                        |
 | ----------------------- | ------------------------------ |
 | **ServiceNow**          | IT Service Management platform |
@@ -56,7 +56,7 @@ Request Tracking & Completion
 | **sc_req_item**         | Requested Item (RITM)          |
 | **sc_task**             | Catalog Task                   |
 
-📝 Service Catalog Variables
+## 📝 Service Catalog Variables
 | Variable                  | Type             | Purpose                  |
 | ------------------------- | ---------------- | ------------------------ |
 | **Software**              | Single Line Text | Software required        |
@@ -64,7 +64,7 @@ Request Tracking & Completion
 | **License Justification** | Multi Line Text  | Reason for the request   |
 | **Urgency**               | Choice           | Normal / High / Critical |
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 ServiceNow
 Service Catalog
 Flow Designer / Workflow
@@ -72,5 +72,5 @@ Business Rules
 Update Sets
 IT Service Management (ITSM)
 
-Project Outcome
+## Project Outcome
 Successfully automated the licensed software request lifecycle in ServiceNow, enabling standardized submission, automated notification and approval, IT task creation, and centralized request tracking—reducing manual effort and improving transparency and efficiency.
