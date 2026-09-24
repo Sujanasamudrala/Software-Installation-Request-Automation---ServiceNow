@@ -1,4 +1,4 @@
-# 🚀 Licensed Software Installation Request Automation
+# Licensed Software Installation Request Automation
 
 **ServiceNow | Service Catalog | Flow Designer | Workflow Automation | ITSM**
 
@@ -6,7 +6,7 @@ An end-to-end ServiceNow automation project that streamlines the process of requ
 
 The solution replaces manual, email-based coordination with a standardized **Service Catalog request** and automated workflow, improving efficiency, transparency, and request tracking.
 
-## 📌 Project Overview
+## Project Overview
 
 Manual software installation requests can result in delays, incomplete information, inconsistent approvals, and poor visibility.
 
@@ -21,7 +21,7 @@ This project provides a centralized **ServiceNow solution** where employees can 
 - Enhance employee experience
 - Support software licensing and IT governance
 
-## 🔄 Workflow
+## Workflow
 Employee  
 ↓  
 Service Catalog  
@@ -40,7 +40,7 @@ Software Support Team
 ↓  
 Request Completion
 
-## 🛠️ Technologies & ServiceNow Components
+## Technologies & ServiceNow Components
 | Component               | Purpose                        |
 | ----------------------- | ------------------------------ |
 | **ServiceNow**          | IT Service Management platform |
@@ -54,7 +54,7 @@ Request Completion
 | **sc_req_item**         | Requested Item (RITM)          |
 | **sc_task**             | Catalog Task                   |
 
-## 📝 Service Catalog Variables
+## Service Catalog Variables
 | Variable                  | Type             | Purpose                  |
 | ------------------------- | ---------------- | ------------------------ |
 | **Software**              | Single Line Text | Software required        |
